@@ -1,1 +1,1 @@
-# pyqt_calc
+# A simple Calculator using pyqt
